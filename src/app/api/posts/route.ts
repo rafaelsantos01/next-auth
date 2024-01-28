@@ -1,7 +1,7 @@
 import client from "../../../../prisma/client";
 
 export async function GET(request: any) {
-  const user = await client.user.findMany();
+  const allPosts = await client.post.findMany();
 
-  return new Response("Hello, Next.js");
+  return Response.json(allPosts);
 }
