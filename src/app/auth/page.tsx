@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Separator } from "@/components/ui/separator";
+import { FcGoogle } from "react-icons/fc";
 
 import { signIn, signOut } from "next-auth/react";
 import Image from "next/image";
@@ -32,8 +33,13 @@ export default function Auth({ session }: any) {
                 <Separator className="w-2/5" />
               </div>
               <div className="">
-                <Button className="w-full" onClick={() => signIn("google")}>
-                  Google
+                <Button
+                  className="w-full flex space-x-2"
+                  onClick={() => signIn("google")}
+                >
+                  <FcGoogle size={26} />
+
+                  <p>Continuar com o Google</p>
                 </Button>
               </div>
             </div>
