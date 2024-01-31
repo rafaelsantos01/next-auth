@@ -20,23 +20,3 @@ Este projeto não apenas solidificou minhas habilidades existentes, mas também 
 ## Stack utilizada
 
 **Front-end:** React, Next, TailwindCSS, Next-Auth, Prisma
-
-# Autenticação com Google
-
-Este projeto é uma aplicação web desenvolvida com React, Next.js, NextAuth e Prisma. Ele oferece uma solução de autenticação via Google, permitindo que os usuários acessem a aplicação de forma segura e personalizada.
-
-# Autenticação com Google
-
-Este projeto é uma aplicação web desenvolvida com React, Next.js, NextAuth e Prisma. Ele oferece uma solução de autenticação via Google, permitindo que os usuários acessem a aplicação de forma segura e personalizada.
-
-# Autenticação com Google
-
-Este projeto é uma aplicação web desenvolvida com React, Next.js, NextAuth e Prisma. Ele oferece uma solução de autenticação via Google, permitindo que os usuários acessem a aplicação de forma segura e personalizada.
-
-# Autenticação com Google
-
-Este projeto é uma aplicação web desenvolvida com React, Next.js, NextAuth e Prisma. Ele oferece uma solução de autenticação via Google, permitindo que os usuários acessem a aplicação de forma segura e personalizada.
-
-# Autenticação com Google
-
-Este projeto é uma aplicação web desenvolvida com React, Next.js, NextAuth e Prisma. Ele oferece uma solução de autenticação via Google, permitindo que os usuários acessem a aplicação de forma segura e personalizada.
